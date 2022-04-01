@@ -1,2 +1,2 @@
 # FlashCardsBackend
-This is the backend created for my react flash card application
+This is the backend created for my react flash card application. The appsettings.json is missing because it contains my SQL admin credentials. The API is connected to a SQL server that was created on Azure and consists of seed data contains all the flash cards for both C# and HTML. Futhermore, the cards contain an id, question, and answer. To retrieve those cards back in the front end endpoints were made to provide the front end of the flash card application to deliver all the information regarding the flash cards to the front end. Inevtiably, this API was published to a web app on Azure.
